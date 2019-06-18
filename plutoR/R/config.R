@@ -1,0 +1,17 @@
+config.db.StockViz.driver = "ODBC Driver 17 for SQL Server"
+config.db.StockViz.server = "NORWAY"
+config.db.StockViz.dbName = "StockViz"
+config.db.StockViz.user = "ro1"
+config.db.StockViz.password = "stockviz1"
+
+config.db.StockVizUs.driver = "ODBC Driver 17 for SQL Server"
+config.db.StockVizUs.server = "NORWAY"
+config.db.StockVizUs.dbName = "StockVizUs"
+config.db.StockVizUs.user = "ro1"
+config.db.StockVizUs.password = "stockviz1"
+
+config.db.StockVizUs2.driver = "ODBC Driver 17 for SQL Server"
+config.db.StockVizUs2.server = "NORWAY"
+config.db.StockVizUs2.dbName = "StockVizUs2"
+config.db.StockVizUs2.user = "ro1"
+config.db.StockVizUs2.password = "stockviz1"
