@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-plutoR\R\config.R
-plutoPy\config.ini
+plutoR/R/config.R
+plutoPy/config.ini
