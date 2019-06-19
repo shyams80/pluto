@@ -1,5 +1,9 @@
 README.md
 setup.py
+model/Db.py
+model/Fred.py
+model/Indices.py
+model/RoutingSession.py
 plutoPy.egg-info/PKG-INFO
 plutoPy.egg-info/SOURCES.txt
 plutoPy.egg-info/dependency_links.txt
