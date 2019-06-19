@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="plutoPy-shyams80",
+    name="plutoPy",
     version="0.1.0",
     author="shyam",
     author_email="shyam.udupa@gmail.com",
