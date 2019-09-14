@@ -50,11 +50,10 @@ Hard Problems + Business Model = Product Design
 
 # How does it work?
 
-The public facing website is a customized JupyterHub that allows you to login through your github account and run either python or R code. To access data-sets provided by pluto, just include some standard headers and get going. When you hit "execute", the entire notebook is executed by a local compute instance and the entire result is sent back. This happens through a mongodb queue. And everything is updated on your github account under a repo called *plutons*. [/media](media) has presentations and a screencast of the POC.
+Jupyterlab is setup on the cloud where users can login with their github account, start a python or R notebook and get started. The homepage, [pluto.studio](https://pluto.studio), has recepies and links to working notebooks. If you run into issues, either raise an issue here or post it on [slack](https://join.slack.com/t/plutonation/shared_invite/enQtNzI5Njg3NTkzNzYwLWE2NzI0ODM5N2FjMDQ2ZjMwMWRlY2FmNWZkYzU1OGFhY2NhNzg3MDM0MjEwMmZjNWI2MThlMjZiNWJiMjEwYjM)
 
-* server-side repo: [plutoX](https://github.com/shyams80/plutoX)
 * python data-set package: [plutoPy](https://github.com/shyams80/plutoPy), [samples](https://github.com/shyams80/plutons/tree/master/docs-py)
 * R data-set package: [plutoR](https://github.com/shyams80/plutoR), [samples](https://github.com/shyams80/plutons/tree/master/docs-R)
 
-Read to give it a whirl? Explore on [pluto.studio](http://pluto.studio)
+Read to give it a whirl? Explore on [pluto.studio](https://pluto.studio)
 
